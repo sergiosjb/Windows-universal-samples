@@ -3,7 +3,7 @@
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620477&clcid=0x409
 --->
 
-# Accelerometer sample
+# Accelerometer sample sjb
 
 This sample shows how to use the [**Accelerometer**](http://msdn.microsoft.com/library/windows/apps/br225687) class.
 
